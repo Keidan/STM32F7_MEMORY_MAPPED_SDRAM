@@ -1,0 +1,10 @@
+Debug/
+Release/
+*~
+*.tmp
+*.bak
+*.ioc
+*.pydevproject
+*.md.html
+*.o
+*.d
